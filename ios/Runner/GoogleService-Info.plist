@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>39343187483-1bkqn87rmsun3ardec0js3f171u66kps.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.39343187483-1bkqn87rmsun3ardec0js3f171u66kps</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>39343187483-uppdgbujb6rq82bj36mch56g9d9mm5r4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtm2XdYjxNpjk_ciTBAbyE2kE6Qj2DpWs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39343187483</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bhavyang.flutter-vote-app</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-vote-app-c1c68</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-vote-app-c1c68.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39343187483:ios:d72701e1d9a8d2f8f0babe</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-vote-app-c1c68.firebaseio.com</string>
+</dict>
+</plist>
